@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "backtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "ethers": "^6.9.0",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "i": "^0.3.7",
+    "kubo-rpc-client": "^3.0.2",
+    "nodemon": "^3.0.2"
+  }
+}
